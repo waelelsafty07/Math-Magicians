@@ -99,6 +99,22 @@ For Run server devlopment
 
 - npm start
 
+For Run Test Eslint
+
+- npm run lint
+
+For Run Fix Eslint
+
+- npm run lintf
+
+For Run Test Stylint
+
+- npm run style
+
+For Run Fix Stylint
+
+- npm run stylef
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
