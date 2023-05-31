@@ -45,8 +45,9 @@
 ### Key Features
 
 - [x] **[setup app]**
-
-
+- [x] **[Components]**
+- [x] **[Events]**
+- [x] **[Fetch data from API]**
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="#"></a>
@@ -134,9 +135,6 @@ For Run Fix Stylint
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Components]**
-- [ ] **[Events]**
-- [ ] **[Fetch data from API]**
 - [ ] **[Full website]**
 - [ ] **[Tests]**
 - [ ] **[Deploy]**
