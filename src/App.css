@@ -4,12 +4,15 @@
   box-sizing: border-box;
 }
 
+.App {
+  height: 100vh;
+}
+
 .calculator {
   display: flex;
   flex-direction: column;
   align-items: center;
   width: 355px;
-  margin: 0 auto;
   background-color: #e0e0e0;
   border-radius: 5px;
 }
@@ -88,4 +91,49 @@ button:hover {
 #equal {
   background-color: #6c6;
   color: #fff;
+}
+
+.d-space-between {
+  justify-content: space-between;
+}
+
+nav {
+  background-color: orange;
+}
+
+.navbar-head {
+  font-size: 3rem;
+  font-weight: 600;
+}
+
+.navbar-menu {
+  font-size: 2rem;
+}
+
+.navbar-menu ul {
+  gap: 1rem;
+  list-style: none;
+}
+
+.d-space-around {
+  justify-content: space-around;
+}
+
+.page-calculator {
+  margin-top: 4rem;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.center-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50%;
+}
+
+.d-flex-column {
+  flex-direction: column;
 }
