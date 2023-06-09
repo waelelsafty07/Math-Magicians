@@ -48,11 +48,13 @@
 - [x] **[Components]**
 - [x] **[Events]**
 - [x] **[Fetch data from API]**
+- [x] **[Full website]**
+- [x] **[Deploy]**
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="#"></a>
 
-- [[Live Demo Link]comming soon]
+- [[Live Demo Link](https://mathhh.onrender.com)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,9 +137,7 @@ For Run Fix Stylint
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Full website]**
 - [ ] **[Tests]**
-- [ ] **[Deploy]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
