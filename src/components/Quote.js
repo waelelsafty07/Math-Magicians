@@ -33,7 +33,7 @@ const Quote = () => {
     fetchQuote();
   }, []);
   return (
-    <div>
+    <div className="center-text">
       <p>{isLoading ? 'Loading...' : error || quote}</p>
     </div>
   );

@@ -14,7 +14,10 @@ const Calculator = () => {
   };
 
   return (
-    <>
+    <div className="d-flex d-space-around page-calculator">
+      <div>
+        <h1>Let&lsquo;s Do something!</h1>
+      </div>
       <div className="calculator">
         <div className="display-result">{next || operation || total || 0}</div>
         <div className="group-btns">
@@ -45,7 +48,7 @@ const Calculator = () => {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 
